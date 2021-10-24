@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex Serban!
 - 👀 I’m interested in Software Development, especially Web technologies.
 - 💻 At the moment, I'm working as a Python software development Intern.
-- 🌱 I’m currently studying Computer Science and Information Technology at the Polytechnic University of Timisoara, Romania.
+- 🌱 I’m currently studying Computer Science and Information Technology at the Polytechnic University of Timisoara, Romania, as a 2nd year student.
 - 📫 Reach me on <a href="https://www.linkedin.com/in/alexandru-%C8%99erban-b842011a8/"> LinkedIn</a>!
 
 <!---
