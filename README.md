@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development, especially Web technologies.
 - 💻 I'm working as a Junior Backend Developer.
 - 🌱 I’m currently studying Computer Science and Information Technology at the Polytechnic University of Timisoara, Romania, as a 2nd year student.
-- 📫 Reach me on <a href="https://www.linkedin.com/in/alexandru-%C8%99erban-b842011a8/"> LinkedIn</a>!
+- 📫 Reach me on <a href="https://www.linkedin.com/in/alexandru-b-serban/"> LinkedIn</a>!
 
 <!---
 serbanlex/serbanlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
