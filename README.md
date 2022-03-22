@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex Serban!
+- 👋 Hi, I’m Alex!
 - 👀 I’m interested in Software Engineering, especially in the Web area.
 - 💻 I'm working as a Junior Backend Developer.
 - 🌱 I’m currently studying Computer Science and Information Technology at the Polytechnic University of Timisoara, Romania, as a 2nd year student.
